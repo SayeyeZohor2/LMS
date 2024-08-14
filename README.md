@@ -35,12 +35,9 @@ public class JavaFun {
         System.out.println("Let’s keep exploring the world of Java!");
     }
 }
+```
 
-
-
-
-
-
+```cmd
 I love CODE!
 I love COFFEE!
 I love CHALLENGES!
