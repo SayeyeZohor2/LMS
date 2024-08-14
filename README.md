@@ -69,8 +69,8 @@ Let’s keep exploring the world of Java!
    - `javaFunInstance.doSomethingCool();` برای فراخوانی متد غیر `static` از شیء ساخته شده.
 
 # intellij Editor ...
-![Lovely Programming Language => java](https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp)
-
+![Lovely Programming Language => java](https://github.com/SayeyeZohor2/University/blob/main/picture/Screenshot%202024-08-14%20190202.png)
+![Lovely Programming Language => java](https://github.com/SayeyeZohor2/University/blob/main/picture/Screenshot%202024-08-14%20190202.png)
 
 ![Lovely Programming Language => java](https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp)
 
