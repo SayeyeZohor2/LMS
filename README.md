@@ -41,18 +41,24 @@ import java.util.List;
 public class JavaFun {
     public static void main(String[] args) {
         List<String> favoriteThings = Arrays.asList("Code", "Coffee", "Challenges");
+        printFavoriteThings(favoriteThings);
 
+        // ایجاد شیء از کلاس JavaFun و فراخوانی متد doSomethingCool
+        JavaFun javaFunInstance = new JavaFun();
+        javaFunInstance.doSomethingCool();
+    }
+
+    private static void printFavoriteThings(List<String> favoriteThings) {
         favoriteThings.stream()
             .map(String::toUpperCase)
             .forEach(thing -> System.out.println("I love " + thing + "!"));
-
-        new JavaFun().doSomethingCool();
     }
 
     private void doSomethingCool() {
         System.out.println("Let’s keep exploring the world of Java!");
     }
 }
+
 
 
 
