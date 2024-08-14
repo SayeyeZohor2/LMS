@@ -29,9 +29,10 @@ public class JavaFun {
 ```
 
 
-### Java Fun!
+### لذت برنامه‌نویسی با جاوا!
 
-Here’s a fun Java snippet that showcases some of the cool features of the language:
+در اینجا یک کد جالب با جاوا آورده شده که برخی از ویژگی‌های جذاب این زبان را به نمایش می‌گذارد:
+
 
 ```java
 import java.util.Arrays;
