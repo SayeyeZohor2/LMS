@@ -6,6 +6,10 @@
 
 <img src="https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp" width="50%">
 
+<div style="text-align:center"><img src="https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp" /></div>
+<img align="center" src="https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp" alt="...">
+<span style="display:block;text-align:center">![Test Automation]https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp)</span>
+
 ### لذت برنامه‌نویسی با جاوا!
 
 در اینجا یک کد جالب با جاوا آورده شده که برخی از ویژگی‌های جذاب این زبان را به نمایش می‌گذارد:
