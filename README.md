@@ -73,4 +73,3 @@ Let’s keep exploring the world of Java!
    - `JavaFun javaFunInstance = new JavaFun();` برای ایجاد یک شیء از کلاس `JavaFun`.
    - `javaFunInstance.doSomethingCool();` برای فراخوانی متد غیر `static` از شیء ساخته شده.
 
-این امکانات و ویژگی‌ها به شما کمک می‌کنند تا کد را به صورت سازمان‌یافته و با استفاده از قابلیت‌های پیشرفته جاوا بنویسید.
