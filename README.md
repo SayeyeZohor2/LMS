@@ -7,7 +7,7 @@
 <img src="https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp" width="50%">
 
 <div style="text-align:center"  width="50%"><img src="https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp" /></div>
-<img align="center" src="https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp" alt="...">
+<img align="center" src="https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp"  width="50%" alt="...">
 <span style="display:block;text-align:center">![Test Automation]https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp)</span>
 
 ### لذت برنامه‌نویسی با جاوا!
