@@ -4,7 +4,7 @@
 
 ![Lovely Programming Language => java](https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp)
 
-<img src="[https://your-image-url.type](https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp)" width="100" height="100">
+<img src="https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp" width="100" height="100">
 
 ### لذت برنامه‌نویسی با جاوا!
 
