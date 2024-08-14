@@ -82,7 +82,7 @@ Let’s keep exploring the world of Java!
    - برای ایجاد لیست از رشته‌ها: `List<String> favoriteThings = Arrays.asList("Code", "Coffee", "Challenges");`
 
 3. **استفاده از `Stream API`**:
-   - `favoriteThings.stream()` برای ایجاد جریان (Stream) از لیست.
+   - `favoriteThings.stream()` برای ایجاد (Stream) از لیست.
    - `map(String::toUpperCase)` برای تبدیل هر رشته به حروف بزرگ.
    - `forEach(thing -> System.out.println("I love " + thing + "!"))` برای اعمال عملی روی هر عنصر در جریان.
 
