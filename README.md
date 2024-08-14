@@ -1,5 +1,5 @@
 # University
-سیستم جامع دانشگاهی به زبان جاوا
+سیستم جامع مدیریت یادگیری به زبان جاوا
 
 
 ![Lovely Programming Language => java](https://github.com/SayeyeZohor2/University/blob/main/picture/java-programming-language-script-code-260nw-1119262511.jpg?raw=true)
