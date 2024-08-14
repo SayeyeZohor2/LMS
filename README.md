@@ -37,7 +37,7 @@ public class JavaFun {
 }
 ```
 
-```cmd
+```java
 I love CODE!
 I love COFFEE!
 I love CHALLENGES!
