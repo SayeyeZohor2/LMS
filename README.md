@@ -68,6 +68,9 @@ Let’s keep exploring the world of Java!
    - `JavaFun javaFunInstance = new JavaFun();` برای ایجاد یک شیء از کلاس `JavaFun`.
    - `javaFunInstance.doSomethingCool();` برای فراخوانی متد غیر `static` از شیء ساخته شده.
 
+# intellij Editor ...
+![Lovely Programming Language => java](https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp)
+
 
 ![Lovely Programming Language => java](https://github.com/SayeyeZohor2/University/blob/main/picture/pexels-photo-4017430.webp)
 
